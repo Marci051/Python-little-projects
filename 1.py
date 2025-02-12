@@ -1,7 +1,2 @@
-teams = ["counterterroris","terrorist","spacters"]
-for i in teams:
-    print(i)
-    print(i + "pie")
-
-
-
+name = str(input())
+print("How Are You " + name)
